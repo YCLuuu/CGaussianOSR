@@ -1,0 +1,7 @@
+dataset_dir: "./data/sample/s1"
+lr: 0.02
+alpha: 0.005
+latent_dim: 64
+kld_weight: 0.0005
+means: [0.485, 0.456, 0.406]
+stds: [0.229, 0.224, 0.225]
